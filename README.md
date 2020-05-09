@@ -1,12 +1,15 @@
 📌 Created By Abhishek Prabhakar
 
 🎀 Training the Data Sets
+
 💼 Using Flask as Back-End
 
 🧾⏰ WORKING :
 
   ✔ It works on Reinforcement Learning Model of Machine Learning and uses Flask.
+  
   ✔ Greater the accuracy of datasets, more the Precision and Accuracy of our Model.
+  
   ✔ It would help the Govt. agencies in testing the patients who are more  prone to COVID-19 Infection.
   
  🎯 This project takes into Consideration five symptoms of COVID-19 Infection :
